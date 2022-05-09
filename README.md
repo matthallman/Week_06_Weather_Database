@@ -1,1 +1,2 @@
-# Week_06_Weather_Database
+# Week 06 Weather Database
+Create travel itinerary based on temperature preferences.
